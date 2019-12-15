@@ -1,2 +1,2 @@
-#Python
-  Python code via jupyter notebook
+# Python
+Python code via jupyter notebook
